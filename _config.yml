@@ -1,0 +1,20 @@
+# Site settings
+title:		Gunnar Prüfer
+tagline:   'Personal Homepage of Gunnar Prüfer'
+email:		mail@pruefi.eu
+description: > # this means to ignore newlines until "baseurl:"
+
+url:             http://www.pruefi.eu
+shorturl:        pruefi.eu
+
+author:
+  name:           'Gunnar Prüfer'
+  url:            http://www.pruefi.eu
+
+#twitter_username:
+github_username:	gunnarpruefer
+
+# Build settings
+markdown: kramdown
+
+
